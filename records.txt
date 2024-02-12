@@ -1,0 +1,9 @@
+________DON Airlines_____________
+________Ticket___________________
+_________________________________
+Customer ID:0
+Customer Name:
+Customer Gender:
+	Description
+destination		
+Flight cost :		0
